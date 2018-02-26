@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ServiceModel;
-using Newtonsoft.Json.Linq;
-
 namespace components
 {
 
@@ -10,11 +8,11 @@ namespace components
     public interface IUsers
     {
         [OperationContract]
-        List<JArray> GetUsers();
+        List<User> GetUsers();
         [OperationContract]
-        void AddUser(string userName, string lastname, DateTime birthday);
+        void AddUser(User _user);
         [OperationContract]
-        void EditUser(int id, string userName, string lastname, DateTime birthday);
+        void EditUser(User _user);
     }
 
 }

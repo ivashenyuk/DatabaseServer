@@ -1,0 +1,6 @@
+C:\Users\yurai\source\repos\Server\components\bin\Release\components.dll
+C:\Users\yurai\source\repos\Server\components\bin\Release\components.pdb
+C:\Users\yurai\source\repos\Server\components\bin\Release\Newtonsoft.Json.dll
+C:\Users\yurai\source\repos\Server\components\obj\Release\components.csproj.CoreCompileInputs.cache
+C:\Users\yurai\source\repos\Server\components\obj\Release\components.dll
+C:\Users\yurai\source\repos\Server\components\obj\Release\components.pdb

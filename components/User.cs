@@ -7,19 +7,19 @@ namespace components
     public class User
     {
         [DataMember]
-        int id;
+        public int Id;
         [DataMember]
-        string userName;
+        public string Name;
         [DataMember]
-        string userLastname;
+        public string Lastname;
         [DataMember]
-        DateTime birthday;
+        public DateTime Birthday;
         public User(int id, string userName, string userLastname, DateTime birthday)
         {
-            this.id = id;
-            this.userName = userName;
-            this.userLastname = userLastname;
-            this.birthday = birthday;
+            this.Id = id;
+            this.Name = userName;
+            this.Lastname = userLastname;
+            this.Birthday = birthday;
         }
     }
 }

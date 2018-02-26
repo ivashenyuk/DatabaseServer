@@ -1,0 +1,14 @@
+C:\Users\yurai\source\repos\Server\Server\bin\Release\Server.exe.config
+C:\Users\yurai\source\repos\Server\Server\bin\Release\Server.exe
+C:\Users\yurai\source\repos\Server\Server\bin\Release\Server.pdb
+C:\Users\yurai\source\repos\Server\Server\bin\Release\components.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Release\EntityFramework.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Release\components.pdb
+C:\Users\yurai\source\repos\Server\Server\bin\Release\EntityFramework.xml
+C:\Users\yurai\source\repos\Server\Server\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\yurai\source\repos\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\yurai\source\repos\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\yurai\source\repos\Server\Server\obj\Release\Server.exe
+C:\Users\yurai\source\repos\Server\Server\obj\Release\Server.pdb
