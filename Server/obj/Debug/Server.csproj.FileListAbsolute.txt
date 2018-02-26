@@ -5,3 +5,10 @@ C:\Users\yurai\source\repos\Server\Server\obj\Debug\Server.csprojResolveAssembly
 C:\Users\yurai\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\yurai\source\repos\Server\Server\obj\Debug\Server.exe
 C:\Users\yurai\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\components.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\EntityFramework.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\components.pdb
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\EntityFramework.xml
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yurai\source\repos\Server\Server\bin\Debug\Newtonsoft.Json.dll
